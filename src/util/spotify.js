@@ -1,5 +1,5 @@
 const clientId = '734d8bfdd4424641b722455ff1f486d4';
-const URI = 'http://lfgalviz.surge.sh';
+const URI = 'https://lfgalviz-spotify.netlify.app/';
 
 //const URI = 'http://localhost:3000/';
 let accessToken;
